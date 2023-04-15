@@ -1,1 +1,13 @@
 *.css linguist-detectable= false
+*.c linguist-detectable = false
+*.cpp linguist-detectable= false
+*.java linguist-detectable= true
+*.h linguist-vendored
+*.md linguist-vendored
+*.fxml linguist-vendored
+*.class linguist-vendored
+*.jar linguist-vendored
+*.dll linguist-vendored
+*.policy linguist-vendored
+*.properties linguist-vendored
+*.xml linguist-vendored
